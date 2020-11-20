@@ -5,7 +5,11 @@ Red
 Orange
 Green
 blue
+Unicorns
+Indigo
 Violet
+
+I love unicorns
 
 
 
